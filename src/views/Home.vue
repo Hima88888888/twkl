@@ -36,6 +36,18 @@
     </span>
       </div>
     </div>
+    <div class="row srow">
+      <div class="col s6 scol">
+        <span>
+      <router-link class="link" to="/youssef">Youssef</router-link>
+    </span>
+      </div>
+      <div class="col s6 scol">
+        <span>
+     
+    </span>
+      </div>
+    </div>
   </div>
 </template>
 

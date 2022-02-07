@@ -8,7 +8,7 @@ import Uncle from "../views/Uncle.vue";
 import Tant from "../views/Tant.vue";
 import Maya from "../views/Maya.vue";
 import Ashry from "../views/Ashry.vue";
-
+import Youssef from "../views/Youssef.vue";
 Vue.use(VueRouter);
 
 const routes = [
@@ -51,6 +51,11 @@ const routes = [
     path: "/ashry",
     name: "ashry",
     component: Ashry
+  },
+  {
+    path: "/youssef",
+    name: "youssef",
+    component: Youssef
   },
   {
     path: "/about",
